@@ -1,0 +1,12 @@
+{
+    "name": "ewe-node",
+    "version": "1.0.0",
+    "main": "server.js",
+    "repository": "https://github.com/geeklopz/ewe-node.git",
+    "author": "Danilo Caetano <danilo.lopz@gmail.com>",
+    "license": "MIT",
+    "start": "node server.js",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
